@@ -2,13 +2,13 @@
 
 namespace ClassLibrary1
 {
-    public class Class1
+    public class Class1:Person
     {
 
         public Class1()
         {
             Person p = new Person();
-            p.
+            p.PRo
         }
     }
 }
