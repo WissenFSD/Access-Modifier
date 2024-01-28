@@ -8,7 +8,10 @@ namespace ClassLibrary1
         public Class1()
         {
             Person p = new Person();
-            p.PRo
+
+            // Arada kalıtım hiyerarşisi var bu sebeple erişim mümkün ?
+
+            ProtectedInternalMethod();
         }
     }
 }
